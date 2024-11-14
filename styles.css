@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.middle{
+.middle, tr, th{
 	border:1px solid black;
 	padding:1px;
 	spacing: 1px;
@@ -12,6 +12,11 @@
 
 .right{
   text-align:right;
+}
+
+table, th, td {
+  border: 1px solid black;
+
 }
 
 
